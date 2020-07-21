@@ -11,20 +11,16 @@ Flash Chat is a basic IOS chatting app with firebase Firestore database
 
 - **Welcome Screen** 
 
-<img src="Screenshots/Simulator Screen Shot - iPhone 11 Pro Max - 2020-07-21 at 03.26.17.png">
+<img src="Screenshots/Screen Shot 2020-07-21 at 1.34.36 PM.png">
 
 - **Register Screen**
 
-<img src="Screenshots/Simulator Screen Shot - iPhone 11 Pro Max - 2020-07-21 at 03.26.33.png">
+<img src="Screenshots/Screen Shot 2020-07-21 at 1.34.56 PM.png">
 
 - **Log In Screen** 
 
-<img src="Screenshots/Simulator Screen Shot - iPhone 11 Pro Max - 2020-07-21 at 03.26.24.png">
+<img src="Screenshots/Screen Shot 2020-07-21 at 1.34.43 PM.png">
 
 - **Chat Screen**
 
-<img src="Screenshots/Simulator Screen Shot - iPhone 11 Pro Max - 2020-07-21 at 03.30.04.png">
-
-- **Write New Message Screen**
-
-<img src="Screenshots/Simulator Screen Shot - iPhone 11 Pro Max - 2020-07-21 at 03.30.14.png">
+<img src="Screenshots/Screen Shot 2020-07-21 at 1.35.11 PM.png">
